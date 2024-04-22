@@ -1,0 +1,10 @@
+ex
+
+input: A = [0, -1, 2, -3, 1]
+X = -2
+output: -3, 1
+if we cal the sum of output, 1 + (-3) = -2
+
+input: A = [1,-2,1,0,5]
+x=0
+output: no valid pair exists
